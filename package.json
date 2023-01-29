@@ -1,0 +1,27 @@
+{
+  "name": "com.postegames.trackables",
+  "version": "1.0.0",
+  "displayName": "PEGGAME - Trackables",
+  "description": "Components for tracking and averaging multiple object positions.",
+  "unity": "2022.2",
+  "keywords": [
+    "toolbox",
+    "trackables",
+    "behaviour"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.messagedispatcher": "",
+    "com.postegames.mathutils": "",
+    "com.postegames.collections": "",
+    "com.postegames.messagebehaviourframework": "",
+    "com.postegames.sharedenums": "",
+    "com.postegames.hashedstring": "",
+    "com.postegames.unityextensions": "",
+    "com.postegames.typehelper": ""
+  }
+}
