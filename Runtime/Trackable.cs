@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
-using Toolbox.Collections;
-using Toolbox.Math;
+using Peg.Util;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Toolbox.Messaging;
+using Peg.Messaging;
+using Peg.Lib;
 
-namespace Toolbox.Behaviours
+namespace Peg.Behaviours
 {
     /// <summary>
     /// Attach this to any object that should potentially be tracked upon spawning.

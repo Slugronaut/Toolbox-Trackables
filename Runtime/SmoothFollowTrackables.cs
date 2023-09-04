@@ -1,7 +1,7 @@
-﻿using Toolbox.Math;
+﻿using Peg.Lib;
 using UnityEngine;
 
-namespace Toolbox.Behaviours
+namespace Peg.Behaviours
 {
     /// <summary>
     /// Follows the geometric center of multiple targets on a configurable number of axies.
