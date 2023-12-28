@@ -1,7 +1,7 @@
 ﻿using Peg.Lib;
 using UnityEngine;
 
-namespace Peg.Behaviours
+namespace Peg.Trackables
 {
     /// <summary>
     /// Follows the geometric center of multiple targets on a configurable number of axies.
